@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget { //Stateless widget which means it only con
       theme: ThemeData( //Brings the data of the theme
         primarySwatch: Colors.blue, //Changes the color of the app
       ),
-      home: MyHomePage(title: 'CRACKHEAD'), //Titles the actual app
+      home: MyHomePage(title: 'Me First App hehe'), //Titles the actual app
     );
   }
 }
