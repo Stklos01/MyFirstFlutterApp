@@ -6,9 +6,9 @@ class MyApp extends StatelessWidget { //Stateless widget which means it only con
   @override
   Widget build(BuildContext context) { // Build method which you explain the UI, Context references the location in the widget tree (ie the address of the widget)
     return MaterialApp(
-      title: 'Flutter Demo', //Title the app (not shown)
+      title: 'Me First App hehe', //Title the app (not shown)
       theme: ThemeData( //Brings the data of the theme
-        primarySwatch: Colors.green, //Changes the color of the app
+        primarySwatch: Colors.blue, //Changes the color of the app
       ),
       home: MyHomePage(title: 'CRACKHEAD'), //Titles the actual app
     );
